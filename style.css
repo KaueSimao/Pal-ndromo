@@ -3,7 +3,7 @@
 	text-align: center;
 }
 body{
-background-color: rgb(202, 171, 216);
+background-color: rgb(155, 202, 229);
 }
 
 #resultado {
@@ -11,6 +11,7 @@ background-color: rgb(202, 171, 216);
 	margin-top: 20px;
 	padding: 10px;
 	border: 3px solid rgb(255, 255, 255);
+    color: black;
 }
 .btn {
     padding: 1.1em 3em;
